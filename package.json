@@ -2,9 +2,9 @@
   "name": "grunt-properties-to-json",
   "version": "0.6.0",
   "description": "Converts java property files to JSON files.",
-  "repository": "git://github.com/jcbvm/grunt-properties-to-json.git",
-  "author": "Jacob van Mourik",
-  "license": "MIT",
+  "repository": "git://github.com/hadrielwonda/javagrunttojson",
+  "author": "Abaniwonda Olawale",
+  "license": "none",
   "engines": {
     "node": ">= 0.10.0"
   },
